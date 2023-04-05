@@ -61,10 +61,9 @@ export default function Profile({ name, image, description }) {
         different things and find your own way into it!
       </p>
       <div className="flex flex-col justify-around w-full mb-4 lg:flex-row">
-        <div className="flex items-center justify-center h-full pt-2 m-4 rounded-2xl lg:m-0 bg-gray1">
+        {/* <div className="flex items-center justify-center h-full pt-2 m-4 rounded-2xl lg:m-0 bg-gray1">
           <Whatsapp text="darkblue1" />
-          <p className="pr-6 text-xl font-bold text-darkblue1">Share Test</p>
-        </div>
+        </div> */}
         <div className="flex flex-col items-center justify-end h-full pt-2 m-4 lg:m-0 bg-pink1 rounded-2xl">
           <Link to="/test">
             <button className="w-full h-full px-2 pt-3 pb-6 text-2xl font-bold text-white ">
