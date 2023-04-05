@@ -40,7 +40,7 @@ export default function Result() {
             </button>
           </Link>
         </div>
-      ) : isLoading || !result.name ? (
+      ) : isLoading || !result.name || !result.image ? (
         <div className="flex flex-col items-center pt-12 m-0 ">
           <Spinner />
           <div className="items-center p-12 mx-2 mt-12 text-2xl font-semibold text-center bg-white w-fit md:block text-darkblue1 rounded-xl">

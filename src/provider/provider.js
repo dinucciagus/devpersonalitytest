@@ -32,7 +32,7 @@ export default function StoreProvider({ children }) {
 
   function addQuestions() {
     try {
-      fetch("http://localhost:8080/questions.json")
+      fetch("backendtest-production-3af3.up.railway.app/questions")
         .then((response) => response.json())
         .then((data) => {
           dispatch({
@@ -47,7 +47,7 @@ export default function StoreProvider({ children }) {
 
   function addRoles() {
     try {
-      fetch("http://localhost:8080/roles.json")
+      fetch("backendtest-production-3af3.up.railway.app/roles")
         .then((response) => response.json())
         .then((data) => {
           dispatch({
