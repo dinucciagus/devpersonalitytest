@@ -58,7 +58,6 @@ function Test() {
 
   return questions.length === 10 ? (
     <div className="flex flex-col justify-between min-h-screen space-y-4 bg-gradient-to-tr from-darkblue1 to-pink1 bg-no-repeat bg-[300%,300%] animate-wave">
-      {/* <div className="md:my-12 lg:my-0"> */}
       <div className="flex justify-center w-full">
         <Link to="/">
           <img
@@ -76,11 +75,12 @@ function Test() {
         select={select}
         point={point}
       />
-      {/* </div> */}
       <Footer color="" text={"white"} />
     </div>
   ) : (
-    <Spinner />
+    <div className="flex pt-32 flex-col justify-between min-h-screen space-y-4 bg-gradient-to-tr from-darkblue1 to-pink1 bg-no-repeat bg-[300%,300%] animate-wave">
+      <Spinner />
+    </div>
   );
 }
 
