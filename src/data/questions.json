@@ -1,0 +1,174 @@
+{
+  "array": [
+    {
+      "title": "When you hear the word design, what do you think of?",
+      "options": [
+        {
+          "title": "Creating visual layouts and styles",
+          "score": 2
+        },
+        {
+          "title": "Planning and organizing complex systems",
+          "score": 1
+        },
+        {
+          "title": "Writing code and algorithms",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "title": "What's your favorite part of a website or app?",
+      "options": [
+        {
+          "title": "The look and feel",
+          "score": 3
+        },
+        {
+          "title": "The functionality and features",
+          "score": 2
+        },
+        {
+          "title": "The underlying code",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "title": "How do you approach problem-solving?",
+      "options": [
+        {
+          "title": "By brainstorming creative solutions",
+          "score": 2
+        },
+        {
+          "title": "By breaking down the problem into smaller parts",
+          "score": 3
+        },
+        {
+          "title": "By using logic and data",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "title": "What do you enjoy doing in your free time?",
+      "options": [
+        {
+          "title": "Creating art or graphics",
+          "score": 3
+        },
+        {
+          "title": "Organizing events or projects",
+          "score": 2
+        },
+        {
+          "title": "Building things with your hands or tinkering with technology",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "title": "How do you prefer to work with others?",
+      "options": [
+        {
+          "title": "Collaborating closely and sharing ideas",
+          "score": 2
+        },
+        {
+          "title": "Delegating tasks and responsibilities",
+          "score": 3
+        },
+        {
+          "title": "Working independently",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "title": "What kind of feedback do you find most helpful?",
+      "options": [
+        {
+          "title": "Positive reinforcement and encouragement",
+          "score": 1
+        },
+        {
+          "title": "Constructive criticism and specific suggestions",
+          "score": 3
+        },
+        {
+          "title": "Data and analytics",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "title": "What's your favorite thing about technology?",
+      "options": [
+        {
+          "title": "The ability to express creativity",
+          "score": 2
+        },
+        {
+          "title": "The power to streamline and automate processes",
+          "score": 3
+        },
+        {
+          "title": "The challenge of understanding complex systems",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "title": "How do you handle stress and pressure?",
+      "options": [
+        {
+          "title": "By taking breaks and practicing self-care",
+          "score": 2
+        },
+        {
+          "title": "By focusing on the task at hand and staying organized",
+          "score": 3
+        },
+        {
+          "title": "By pushing through and working harder",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "title": "What's your approach to learning new things?",
+      "options": [
+        {
+          "title": "By exploring and experimenting",
+          "score": 3
+        },
+        {
+          "title": "By following structured courses or guides",
+          "score": 1
+        },
+        {
+          "title": "By researching and analyzing information",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "title": "What motivates you to do your best work?",
+      "options": [
+        {
+          "title": "The satisfaction of creating something beautiful",
+          "score": 2
+        },
+        {
+          "title": "The thrill of problem-solving and overcoming challenges",
+          "score": 3
+        },
+        {
+          "title": "The desire to achieve success and recognition",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}

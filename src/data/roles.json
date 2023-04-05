@@ -1,0 +1,34 @@
+{
+  "array": [
+    {
+      "name": "Front-end Developer",
+      "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Web_Developer_Salary.jpg",
+      "score": [2, 3, 3, 1, 2, 1, 1, 3, 3, 2],
+      "description": "The role of a front-end developer in web development is to create the user interface and experience that website visitors interact with. They are responsible for writing and coding the front-end of a website, which includes designing and building the layout, navigation, and visual elements of the site. Front-end developers use various programming languages such as HTML, CSS, and JavaScript to ensure that the website is functional and visually appealing across different devices and browsers. They work closely with designers and back-end developers to ensure that the website meets the required specifications, and they also test the website's functionality and make necessary adjustments as needed. The front-end developer's ultimate goal is to create an enjoyable user experience that encourages visitors to stay on the website and return in the future."
+    },
+    {
+      "name": "Back-end Developer",
+      "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Web_Developer_Salary.jpg",
+      "score": [3, 2, 1, 1, 1, 2, 3, 3, 2, 3],
+      "description": "The role of a back-end developer in web development is to build and maintain the server-side of a website. They are responsible for creating and managing the underlying infrastructure, architecture, and databases that power the front-end of the site. Back-end developers use programming languages such as Python, Java, or PHP to write server-side scripts that handle tasks such as data storage, retrieval, and processing. They work closely with front-end developers to ensure that the website functions smoothly and efficiently, and they also collaborate with web designers to ensure that the website's design is compatible with the back-end functionality. Back-end developers are responsible for ensuring that the website is secure, scalable, and efficient, and they often perform routine maintenance and updates to keep the site running smoothly. Ultimately, the back-end developer's goal is to create a stable and reliable foundation that supports the website's front-end and provides a seamless user experience."
+    },
+    {
+      "name": "Full-Stack Developer",
+      "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Web_Developer_Salary.jpg",
+      "score": [1, 2, 3, 1, 1, 3, 1, 3, 1, 3],
+      "description": "The role of a full-stack developer in web development is to be proficient in both front-end and back-end development. Full-stack developers are responsible for designing, building, and maintaining every aspect of a website, from the user interface to the server-side infrastructure. They possess a broad range of skills and are able to work on both the client and server-side of a web application. Full-stack developers use a combination of programming languages, frameworks, and tools to develop and implement complex web applications. They are proficient in front-end languages such as HTML, CSS, and JavaScript, and back-end languages such as PHP, Python, and Ruby on Rails. They are responsible for managing databases, writing server-side scripts, and developing APIs that allow different parts of a web application to communicate with each other. Full-stack developers are highly skilled in problem-solving, troubleshooting, and debugging, and they work closely with designers, developers, and project managers to ensure that web applications are built efficiently, securely, and to the required specifications."
+    },
+    {
+      "name": "UX/UI designer",
+      "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Web_Developer_Salary.jpg",
+      "score": [2, 3, 2, 3, 2, 1, 2, 2, 3, 2],
+      "description": "The role of a UX/UI designer in web development is to create an intuitive and visually pleasing user interface and experience that maximizes user engagement and satisfaction. UX/UI designers work closely with front-end developers and project managers to ensure that the design of a website or web application is user-centered and aligned with the goals of the business or organization. They use design thinking principles, user research, and data analysis to create wireframes, prototypes, and mockups that illustrate the structure, layout, and functionality of the website. They also design user interfaces, including buttons, icons, and menus, that are easy to navigate and visually appealing. UX/UI designers are responsible for ensuring that the website is accessible to all users, including those with disabilities or different devices, and they collaborate with developers to ensure that the design is technically feasible and optimized for performance. Ultimately, the UX/UI designer's goal is to create a seamless and enjoyable user experience that encourages engagement, retention, and loyalty."
+    },
+    {
+      "name": "Project Manager",
+      "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Web_Developer_Salary.jpg",
+      "score": [1, 2, 3, 2, 3, 3, 1, 3, 2, 1],
+      "description": "The role of a project manager in web development is to oversee and coordinate the various aspects of a website or web application project, from conception to delivery. Project managers are responsible for defining the project scope, budget, and timeline, and for ensuring that the project is completed on time, within budget, and to the required quality standards. They work closely with clients or stakeholders to understand their needs and requirements, and they collaborate with designers, developers, and other team members to ensure that the project is delivered according to the agreed-upon specifications. Project managers are also responsible for risk management, issue resolution, and communication with all stakeholders, including team members, clients, and vendors. They use project management tools and methodologies to track progress, manage resources, and communicate with the project team and stakeholders. Ultimately, the project manager's goal is to ensure that the project is completed successfully, on time, and within budget, and that the client or stakeholders are satisfied with the final product."
+    }
+  ]
+}
