@@ -57,12 +57,12 @@ function Test() {
   };
 
   return questions.length === 10 ? (
-    <div className="flex flex-col justify-between min-h-screen space-y-4 bg-gradient-to-br from-darkblue1 to-violet1">
+    <div className="flex flex-col justify-between min-h-screen space-y-4 bg-gradient-to-tr from-darkblue1 to-pink1 bg-no-repeat bg-[300%,300%] animate-wave">
       {/* <div className="md:my-12 lg:my-0"> */}
       <div className="flex justify-center w-full">
         <Link to="/">
           <img
-            className="object-contain w-24 h-24 md:w-40 md:h-40 "
+            className="object-contain w-24 h-24 mt-4 md:w-40 md:h-40 "
             src={logo}
           />
         </Link>

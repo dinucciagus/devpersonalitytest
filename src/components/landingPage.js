@@ -18,7 +18,7 @@ function LandingPage() {
         </p>
         <div className="flex justify-center w-full ">
           <Link to="/test" className="mx:auto">
-            <button className="w-40 h-16 px-4 py-2 mt-6 text-lg font-bold text-white transition duration-200 transform rounded-full bg-pink1 hover:scale-110 ">
+            <button className="w-40 h-16 px-4 py-2 mt-6 text-lg font-bold text-white transition duration-200 transform rounded-full animate-bounce bg-pink1 hover:scale-110 ">
               Let's go!
             </button>
           </Link>

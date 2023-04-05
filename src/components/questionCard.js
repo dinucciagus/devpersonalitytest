@@ -32,7 +32,7 @@ export default function QuestionCard({
         <div className="flex justify-between mt-4">
           {index > 0 ? (
             <button
-              className="flex p-1 text-lg scale-100 hover:scale-125 focus:outline-none text-darkblue1 hover:text-pink1 "
+              className="flex p-1 text-lg transition-all scale-100 hover:scale-125 focus:outline-none text-darkblue1 hover:text-pink1 "
               onClick={() => back()}
             >
               <svg
@@ -53,7 +53,7 @@ export default function QuestionCard({
           )}
           <button
             className={
-              "p-1  scale-100 text-lg hover:scale-125 focus:outline-none flex text-darkblue1  hover:text-pink1 "
+              "p-1  scale-100 text-lg hover:scale-125 focus:outline-none flex text-darkblue1 transition-all  hover:text-pink1 "
             }
             onClick={index < 9 ? () => next() : () => finish()}
             disabled={point != 0 ? false : true}

@@ -33,8 +33,10 @@ import Whatsapp from "./whatsapp";
 
 export default function Profile({ name, image, description }) {
   return (
-    <div className="flex flex-col items-center m-4 bg-white lg:m-20 rounded-2xl">
-      <img className="w-32 h-32 m-4 " src={logo} />
+    <div className="flex flex-col items-center m-4 bg-white lg:m-20 rounded-2xl ">
+      <Link to="/">
+        <img className="w-32 h-32 m-4 " src={logo} />
+      </Link>
       <div className="flex flex-col mt-6 ">
         <p className="max-w-3xl text-xl font-bold text-center md:text-3xl text-darkblue1">
           According to our experts the role that goes better with your

@@ -9,13 +9,13 @@ export default function Linkedin({ text }) {
         data-te-ripple-init
         data-te-ripple-color="light"
         className={
-          "mb-2 hover:bg-pink1 inline-block rounded px-6 py-2.5 text-xs font-medium uppercase leading-normal hover:text-white hover:shadow-md transition duration-150 ease-in-out hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg text-" +
+          "mb-2 hover:bg-pink1 inline-block rounded px-6 py-2.5 text-xs font-medium uppercase leading-normal hover:text-white transition-all  hover:shadow-md transition duration-150 ease-in-out hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg text-" +
           text
         }
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          className="h-4 w-4"
+          className="w-4 h-4"
           fill="currentColor"
           viewBox="0 0 24 24"
         >
